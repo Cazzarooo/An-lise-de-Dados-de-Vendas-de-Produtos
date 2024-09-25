@@ -79,7 +79,7 @@ O código é modular e está organizado nas seguintes funções:
 ![Preco vs quantidade vendida linha tendencia](https://github.com/user-attachments/assets/48b18c70-a905-4d75-9343-93fd2361d53f)
 
 
-- **Heatmap de Correlação entre Variáveis**![Uploading Total de vendas por categoria barras.png…]()
+- **Heatmap de Correlação entre Variáveis**
 
 ![heatmap](https://github.com/user-attachments/assets/81dd83ba-43f3-48ef-a8ea-525fdded09e3)
 
